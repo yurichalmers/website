@@ -1,0 +1,21 @@
+.container{
+	border: 2px solid pink;
+	width: 1200px;
+	
+}
+.header{
+	width: 1200px;
+}
+
+.myProjects{
+	border: 2px orange solid;
+
+}
+
+h1{
+	color: red;
+}
+
+.project{
+	display: inline-flex;
+}
