@@ -1,3 +1,16 @@
+.superContainer{
+
+	border: 2px solid green;
+	display: flex;
+	justify-content: center;
+	background-color: #290244;
+	color: white;
+}
+.header{
+	border: 2px solid pink;
+	width: 1800px;
+	background-color: #18012b;
+}
 .container{
 	border: 2px solid pink;
 	width: 1200px;
@@ -6,16 +19,19 @@
 .header{
 	width: 1200px;
 }
-
+#name{
+	font-size: 100px;
+}
 .myProjects{
 	border: 2px orange solid;
 
 }
 
-h1{
-	color: red;
-}
 
 .project{
 	display: inline-flex;
+}
+
+.projectDescription{
+	border: 2px limegreen solid;
 }
